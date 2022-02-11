@@ -1,8 +1,8 @@
-/p
-/profile
-/1
-/2
-/3
-/11
-/12
-/logo
+/p.jpg
+/profile.html
+/1.jpg
+/2.jpg
+/3.jpg
+/11.jpg
+/12.jpg
+/logo.png
